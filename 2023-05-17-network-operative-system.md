@@ -1,5 +1,6 @@
 ---
 title: "Network Operative System"
+author: Francisco Javier Jiménez Gómez
 date: 2023-05-17T23:10:00+02:00
 draft: false
 ---
