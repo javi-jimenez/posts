@@ -7,4 +7,4 @@ categories: [writing, book, technology, base]
 tags: [technology, knowledge, base, core, materials]
 ---
 
-![Human versus AI](/assets/img/human-versus-ai.mp4)
+[![Human versus AI](human-versus-ai.png)](/assets/img/human-versus-ai.mp4 "Human versus AI")
