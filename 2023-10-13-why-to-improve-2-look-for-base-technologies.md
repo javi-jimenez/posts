@@ -1,5 +1,6 @@
 ---
 title: "Why to improve? part 2. Technologies and the look for the base knowledge"
+author: Francisco Javier Jiménez Gómez
 date: 2023-10-13T23:18:00+02:00
 published: true
 categories: [writing, book, technology]
