@@ -1,6 +1,5 @@
 ---
 title: "Internet of Services"
-author: Francisco Javier Jiménez Gómez
 date: 2023-05-17T21:56:26+02:00
 ---
 

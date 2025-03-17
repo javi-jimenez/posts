@@ -1,6 +1,5 @@
 ---
 title: "Computer Science base technologies, part I"
-author: Francisco Javier Jiménez Gómez
 date: 2023-10-18T20:49:00+02:00
 published: true
 categories: [writing, book, technology]
