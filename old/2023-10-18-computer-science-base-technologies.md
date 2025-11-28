@@ -1,10 +1,10 @@
 ---
 title: "Computer Science base technologies, part I"
+author: Francisco Javier Jiménez Gómez
 date: 2023-10-18T20:49:00+02:00
 published: true
 categories: [writing, book, technology]
 tags: [technology, knowledge, base, core]
-layout: post
 ---
 
 <style>
@@ -15,13 +15,13 @@ img {
 }
 </style>
 
-<img src="2023-10-18-computer-science-base-technologies/flowchart-concept.webp" alt="Flowchart concept">
+<img src="/2023-10-18-computer-science-base-technologies/flowchart-concept.webp" alt="Flowchart concept">
 
 There is some knowledge, that you already have, for being a good computer science engineer.
 
 That knowledge come from time ago, when the name of [_Al-Khwarizmi_](https://en.wikipedia.org/wiki/Al-Khwarizmi) made possible the term _algorithm_.
 
-<img src="2023-10-18-computer-science-base-technologies/Al_Khorezmy.jpg" alt="Wikipedia: Al Khwarizmi" width="50%">
+<img src="/2023-10-18-computer-science-base-technologies/Al_Khorezmy.jpg" alt="Wikipedia: Al Khwarizmi" width="50%">
 
 All people is able to think about algorithms, we do it constantly, when we plan for a sequence of steps and take into account some possible conditions and routes that the facts could drive us to.
 
@@ -37,7 +37,7 @@ You can write down on paper a list of steps or you can make a drawing with that 
 
 If you drawed it on paper, perhaps you have something similar to a [flowchart](https://en.wikipedia.org/wiki/Flowchart).
 
-<img src="2023-10-18-computer-science-base-technologies/LampFlowchart.svg.png" alt="Wikipedia: Flowchart" width="50%">
+<img src="/2023-10-18-computer-science-base-technologies/LampFlowchart.svg.png" alt="Wikipedia: Flowchart" width="50%">
 
 That is the first step in the programming computer path.
 

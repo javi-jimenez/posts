@@ -1,11 +1,11 @@
 ---
 title: "Why to improve?"
+author: Francisco Javier Jiménez Gómez
 date: 2023-05-17T23:10:00+02:00
 draft: false
-layout: post
 ---
 
-![Equations](2023-05-17-why-to-improve/equations.png)
+![Equations](/2023-05-17-why-to-improve/equations.png)
 
 Today James Wright gets to the rest time of the day tired, but happy, he knows that he did it well, the better he could do it.
 

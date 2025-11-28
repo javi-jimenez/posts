@@ -1,12 +1,12 @@
 ---
 title: "Internet of Services"
+author: Francisco Javier Jiménez Gómez
 date: 2023-05-17T21:56:26+02:00
-layout: post
 ---
 
 Document about an idea from around 2013 of Internet being a group of services, as alternative for seeing them as a group of things.
 
-![Services connected](2023-10-18-computer-science-base-technologies/cloud-services-boxes-1000x538.jpg)
+![Services connected](/2023-10-18-computer-science-base-technologies/cloud-services-boxes-1000x538.jpg)
 
 ### Idea
 

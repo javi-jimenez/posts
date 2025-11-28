@@ -4,13 +4,14 @@ date: 2024-03-31 20:44:00 +02:00
 published: true
 categories: [writing, software, architecture, layer]
 tags: [layer]
+layout: post
 ---
 
-<meta property="og:image" content="/assets/img/fractal-maldelbrot-illustration-1000px-gettyimages-488635425-2048x2048.jpg" />
+<meta property="og:image" content="2024-03-31-vbd-fractal-architecture-view-business-and-data-input-and-output/fractal-maldelbrot-illustration-1000px-gettyimages-488635425-2048x2048.jpg" />
 
-<meta name="twitter:image" content="/assets/img/fractal-maldelbrot-illustration-1000px-gettyimages-488635425-2048x2048.jpg" />
+<meta name="twitter:image" content="2024-03-31-vbd-fractal-architecture-view-business-and-data-input-and-output/fractal-maldelbrot-illustration-1000px-gettyimages-488635425-2048x2048.jpg" />
 
-![Maldelbrot set](/assets/img/fractal-maldelbrot-illustration-1000px-gettyimages-488635425-2048x2048.jpg)
+![Maldelbrot set](2024-03-31-vbd-fractal-architecture-view-business-and-data-input-and-output/fractal-maldelbrot-illustration-1000px-gettyimages-488635425-2048x2048.jpg)
 
 One of the main purpose of a computer system is to process data.
 

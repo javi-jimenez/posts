@@ -4,12 +4,13 @@ date: 2023-12-24T00:00:00+02:00
 published: true
 categories: [writing, software, architecture, layer]
 tags: [monolith, microservice]
+layout: post
 ---
 
 <!-- preview image on social media -->
-<meta property="og:image" content="/assets/img/inca-bricks-1000px.jpg" />
+<meta property="og:image" content="2023-12-24-monoliths-and-microservices/inca-bricks-1000px.jpg" />
 
-![Monoliths and MicroServices](/assets/img/inca-bricks-1000px.jpg)
+![Monoliths and MicroServices](2023-12-24-monoliths-and-microservices/inca-bricks-1000px.jpg)
 
 Monoliths are the first approach to an application build.
 

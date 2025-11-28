@@ -4,9 +4,10 @@ date: 2024-03-31 20:52:00 +02:00
 published: true
 categories: [writing, software, architecture]
 tags: [layer, fractal]
+layout: post
 ---
 
-![Three Layers as Leafs](/assets/img/three-layers-as-leafs-gettyimages-1000px-157287379-2048x2048.jpg)
+![Three Layers as Leafs](2024-03-31-three-layers-abstraction/three-layers-as-leafs-gettyimages-1000px-157287379-2048x2048.jpg)
 
 The software design can be simplified in three layers:
 - View

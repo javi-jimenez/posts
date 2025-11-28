@@ -1,13 +1,13 @@
 ---
 title: "Network Operative System"
+author: Francisco Javier Jiménez Gómez
 date: 2023-05-17T23:10:00+02:00
 draft: false
-layout: post
 ---
 
 Document about the idea of the need of a Network Operative System, the idea was spreaded around 2013.
 
-![Internet in binary code](2023-05-17-network-operative-system/network-operative-system-header-1000x563.png)
+![Internet in binary code](/2023-05-17-network-operative-system/network-operative-system-header-1000x563.png)
 
 We need a Network Operative System for managing Internet Network and Applications.
 

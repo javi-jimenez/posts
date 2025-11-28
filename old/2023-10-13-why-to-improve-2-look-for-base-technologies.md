@@ -1,13 +1,13 @@
 ---
 title: "Why to improve? part 2. Technologies and the look for the base knowledge"
+author: Francisco Javier Jiménez Gómez
 date: 2023-10-13T23:18:00+02:00
 published: true
 categories: [writing, book, technology]
 tags: [technology, knowledge, base, core]
-layout: post
 ---
 
-![Light Bulb Book](2023-10-13-why-to-improve-2-look-for-base-technologies/light-bulb-book.webp)
+![Light Bulb Book](/2023-10-13-why-to-improve-2-look-for-base-technologies/light-bulb-book.webp)
 
 Today James Wright gets to the rest time of the day, tired but happy. He knows that he did it well, the better he could do it.
 

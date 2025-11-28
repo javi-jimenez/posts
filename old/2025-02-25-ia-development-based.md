@@ -1,8 +1,4 @@
----
-title: "Desarrollo con LaIA"
-date: 2025-02-25
-layout: post
----
+## Desarrollo con LaIA
 
 Recientemente recibí una propuesta para dedicar mi tiempo a un trabajo.
 

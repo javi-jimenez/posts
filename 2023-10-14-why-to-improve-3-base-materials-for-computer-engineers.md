@@ -4,6 +4,7 @@ date: 2023-10-14T12:18:00+02:00
 published: false
 categories: [writing, book, technology, base]
 tags: [technology, knowledge, base, core, materials]
+layout: post
 ---
 
-![Human versus AI](/assets/img/human-versus-ai.mp4)
+![Human versus AI](2023-10-14-why-to-improve-3-base-materials-for-computer-engineers/human-versus-ai.mp4)
